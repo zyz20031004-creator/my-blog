@@ -1,0 +1,93 @@
+{
+  "sidebarData": {
+    "categories": [
+      {
+        "name": "Frontend",
+        "count": 1,
+        "icon": "🌐",
+        "description": "前端技术相关文章"
+      },
+      {
+        "name": "Vue",
+        "count": 2,
+        "icon": "💚",
+        "description": "Vue.js 框架相关"
+      },
+      {
+        "name": "UX",
+        "count": 1,
+        "icon": "🎨",
+        "description": "用户体验设计"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Vue3",
+        "count": 2,
+        "description": "Vue3 特性与实践"
+      },
+      {
+        "name": "Vite",
+        "count": 1,
+        "description": "Vite 构建工具"
+      },
+      {
+        "name": "Design System",
+        "count": 1,
+        "description": "设计系统构建"
+      },
+      {
+        "name": "Composition API",
+        "count": 1,
+        "description": "Vue3 Composition API"
+      },
+      {
+        "name": "Docs",
+        "count": 1,
+        "description": "文档相关"
+      },
+      {
+        "name": "Typography",
+        "count": 1,
+        "description": "字体排印"
+      },
+      {
+        "name": "UX",
+        "count": 1,
+        "description": "用户体验"
+      }
+    ],
+    "pdfResources": [
+      {
+        "title": "Vue3 响应式原理速查",
+        "description": "Proxy、effect、computed 与 watch 的核心关系图谱。",
+        "category": "Vue",
+        "size": "1.8 MB",
+        "updated": "2026-06-01",
+        "url": "#",
+        "author": "技术团队",
+        "pages": 12
+      },
+      {
+        "title": "前端工程化 Checklist",
+        "description": "Vite、ESLint、构建优化、发布与监控的实践清单。",
+        "category": "Engineering",
+        "size": "2.4 MB",
+        "updated": "2026-05-16",
+        "url": "#",
+        "author": "工程团队",
+        "pages": 18
+      },
+      {
+        "title": "CSS 主题系统设计笔记",
+        "description": "CSS variables、暗色模式、语义 token 与组件状态。",
+        "category": "CSS",
+        "size": "1.2 MB",
+        "updated": "2026-04-08",
+        "url": "#",
+        "author": "设计团队",
+        "pages": 8
+      }
+    ]
+  }
+}
